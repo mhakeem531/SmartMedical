@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartMedical</string>
+    <string name="day">Today</string>
+    <string name="title_activity_days_buttons">days_buttons</string>
+</resources>
